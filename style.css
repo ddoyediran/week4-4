@@ -53,5 +53,5 @@
 }
 
 .styled li::before {
-  content: "⮕ ";
+  content: "☛ ";
 }
