@@ -10,9 +10,36 @@
 
 .abdul-text {
   font-size: 3rem;
+  padding-bottom: 1rem;
 }
 
 .img-con {
   max-width: 100%;
   height: auto;
+  /* to center the image */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card-container {
+  background-color: #b3dde7;
+  max-width: 100%;
+  margin-left: 7rem;
+  margin-right: 7rem;
+  margin-bottom: 5rem;
+  box-shadow: 15px 15px 5px #aaaaaa;
+  height: auto;
+}
+
+.about-text {
+  padding: 1rem;
+  text-align: center;
+  font-size: 2rem;
+}
+
+li {
+  padding: 15px;
+  font-size: 1.3rem;
+  color: #302c2c;
 }
