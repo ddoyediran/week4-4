@@ -38,8 +38,20 @@
   font-size: 2rem;
 }
 
-li {
+.styled {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.styled li {
   padding: 15px;
+  padding-left: 1rem;
   font-size: 1.3rem;
   color: #302c2c;
+  /* text-indent: -0.75rem; */
+}
+
+.styled li::before {
+  content: "⮕ ";
 }
