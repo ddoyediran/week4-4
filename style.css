@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+}
+
+.top-container {
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.abdul-text {
+  font-size: 3rem;
+}
+
+.img-con {
+  max-width: 100%;
+  height: auto;
+}
